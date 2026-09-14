@@ -1,6 +1,5 @@
 # KINATO
 
-> **Razorpay AI Buildathon 2026 — Track 03: AI Revenue Recovery**
 
 **A payment fails. Kinato phones the customer, finds out why, and — only if a rule engine approves — sends them a real Razorpay payment link.**
 
